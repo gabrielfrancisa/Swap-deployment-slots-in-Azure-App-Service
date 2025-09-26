@@ -66,8 +66,8 @@ Update code and deploy to the staging slot
 index.html to open the editor. 
 Locate the <h1> heading tag, and change Azure App Service - Sample Static HTML Site to Azure App Service Staging Slot - or to anything else that you'd like.
 
-```
 #We will build a mini Game
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,7 +129,6 @@ initGame();
 </script>
 </body>
 </html>
-```
 
 Use the commands ctrl-s to save, and ctrl-q to exit.
 
