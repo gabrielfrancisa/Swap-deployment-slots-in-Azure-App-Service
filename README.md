@@ -66,8 +66,11 @@ Update code and deploy to the staging slot
 index.html to open the editor. 
 Locate the <h1> heading tag, and change Azure App Service - Sample Static HTML Site to Azure App Service Staging Slot - or to anything else that you'd like.
 
-## We will build a mini Game
-```
+# Memory Card Game
+
+We will build a mini memory game using HTML, CSS, and JavaScript.
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -130,7 +133,17 @@ initGame();
 </body>
 </html>
 ```
-## End of code
+
+## How to Play
+1. Click on cards to flip them
+2. Find matching pairs
+3. Try to complete the game with the fewest moves
+
+## Features
+- 8 different animal emoji pairs
+- Move counter
+- Flip animations
+- Win detection
 
 Use the commands ctrl-s to save, and ctrl-q to exit.
 
