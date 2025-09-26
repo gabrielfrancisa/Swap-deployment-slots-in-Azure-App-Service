@@ -67,7 +67,7 @@ Update code and deploy to the staging slot
 
 Locate the <h1> heading tag, and change Azure App Service - Sample Static HTML Site to Azure App Service Staging Slot - or to anything else that you'd like.
 
->>> We will build a mini Game
+#We will build a mini Game
 <!DOCTYPE html>
 <html>
 <head>
