@@ -62,9 +62,8 @@ Wait for the command to finish, and then select Deployment > Deployment slots in
 
 Update code and deploy to the staging slot
 #In the cloud shell, 
-#nash 
->>> index.html to open the editor. 
-
+#bash 
+index.html to open the editor. 
 Locate the <h1> heading tag, and change Azure App Service - Sample Static HTML Site to Azure App Service Staging Slot - or to anything else that you'd like.
 
 #We will build a mini Game
